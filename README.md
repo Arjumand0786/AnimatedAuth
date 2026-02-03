@@ -17,7 +17,7 @@ AnimatedAuth is a React Native frontend mobile app that demonstrates a smooth an
 ## Screenshots
 ![Register Screen]<img src="./assets/login.png" width="300" />
 ![Login Screen]<img src="./assets/register.png" width="300" />
-![Main Screen]<img src="./assets/main.png" width="300" />
+![Main Screen]<img src="./assets/mainscreen.png" width="300" />
 
 ## Demo Video
 [Watch Demo Video]<img src="./assets/demo.gif" width="300" />
