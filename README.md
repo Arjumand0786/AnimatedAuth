@@ -31,6 +31,7 @@ AnimatedAuth is a React Native frontend mobile app that demonstrates a smooth an
 yarn install  
 yarn start
 
-## Author
-Arjumand Farooqi  
-React Native Frontend Developer
+**Author:** Arjumand Farooqi  
+**Portfolio project – React Native frontend app**  
+All rights reserved. Unauthorized use or claim of this project as your own is prohibited.
+
