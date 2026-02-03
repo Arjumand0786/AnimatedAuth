@@ -15,12 +15,12 @@ AnimatedAuth is a React Native frontend mobile app that demonstrates a smooth an
 - JavaScript
 
 ## Screenshots
-![Register Screen](./assets/register.png)
-![Login Screen](./assets/login.png)
-![MainScreen Screen](./assets/mainscreen.png)
+![Register Screen]<img src="./assets/login.png" width="300" />
+![Login Screen]<img src="./assets/register.png" width="300" />
+![Main Screen]<img src="./assets/main.png" width="300" />
 
 ## Demo Video
-[Watch Demo Video](./assets/demo.gif)
+[Watch Demo Video]<img src="./assets/demo.gif" width="300" />
 
 ## How to Run
 yarn install  
